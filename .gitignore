@@ -1,7 +1,9 @@
 */Debug
-*/Driver
+*/Drivers
 */.settings
 */.project
 */.mxproject
 */*.ioc
 */.cproject
+*/USB_HOST
+*/Middlewares
